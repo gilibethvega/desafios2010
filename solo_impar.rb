@@ -6,6 +6,6 @@ impares= 1
 
 while i < n_impar
   i+=1
-  puts impares 
+  puts impares
   impares+=2
 end
