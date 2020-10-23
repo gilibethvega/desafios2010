@@ -9,4 +9,4 @@ while letra != password
   valorsumado += 1
 end
 
-puts valorsumado
+puts "#{valorsumado} intentos"
