@@ -2,7 +2,6 @@
 
 password = ARGV[0]
 letra = 'a' 
-i = 0
 valorsumado = 0
 
 while letra != password
